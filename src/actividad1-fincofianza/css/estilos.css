@@ -277,4 +277,27 @@ footer p{
 	font-size: 0.85rem;
 }
 
+/*Estilos extra para mejorar accesibilidad */
 
+iframe{
+	max-width: 100%;
+	aspect-ratio: 16/9;
+	height: auto;
+}
+
+.hidden{
+	visibility: hidden;
+	height: 0px;
+	width: 0px;
+}
+
+figure {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+  }
+
+  figure img {
+    margin: auto;
+    width: 100%;
+  }
