@@ -1,0 +1,11 @@
+{
+  "name": "diw_ut8_accesibilidad_web",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "dependencies": {
+    "parcel": "^2.3.2"
+  }
+}
